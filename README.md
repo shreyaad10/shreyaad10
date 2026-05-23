@@ -18,8 +18,8 @@ Hi, I'm Shreya Desai, a B.Tech Computer Science student passionate about buildin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shreyaad10&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### My PortFolio Website
+![](shreya-desai-portfolio.vercel.app)
 
 ---
 [![](https://komarev.com/ghpvc/?username=shreyaad10&icon=9&color=5)](https://visitcount.itsvg.in)
